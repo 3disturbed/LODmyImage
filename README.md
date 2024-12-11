@@ -21,7 +21,7 @@ Are you tired of forcing your users to download billboard-sized JPEGs on their c
 
 Because, let’s face it, nobody wants a full-res cat photo over a 2G connection. Unless, of course, they hate their data plan.
 
-[Return to Table of Contents](#table-of-contents-%f0%9f%93%9a)
+[Return to Table of Contents](#table-of-contents-)
 
 ---
 
@@ -31,7 +31,7 @@ Because, let’s face it, nobody wants a full-res cat photo over a 2G connection
 - **Fast Benchmarking**: Utilizes a small file (`benchmark.jpg`) to gauge speed without hogging resources.
 - **Simple Integration**: A few lines of code, and you're good to go.
 
-[Return to Table of Contents](#table-of-contents-%f0%9f%93%9a)
+[Return to Table of Contents](#table-of-contents-)
 
 ---
 
@@ -55,7 +55,7 @@ Depending on your speed, picks one of the three LODs:
 ### 4. **Load Images**:
 Finds images with `data-low`, `data-medium`, and `data-high` attributes and loads the correct one.
 
-[Return to Table of Contents](#table-of-contents-%f0%9f%93%9a)
+[Return to Table of Contents](#table-of-contents-)
 
 ---
 
@@ -72,7 +72,7 @@ Import it as an ES6 module:
 import LODmyImage from './LODmyImage.js';
 ```
 
-[Return to Table of Contents](#table-of-contents-%f0%9f%93%9a)
+[Return to Table of Contents](#table-of-contents-)
 
 ---
 
@@ -107,7 +107,7 @@ lod.init();
 ### Result
 The appropriate image will be loaded dynamically based on the user's connection speed. Voilà! No more buffering embarrassment.
 
-[Return to Table of Contents](#table-of-contents-%f0%9f%93%9a)
+[Return to Table of Contents](#table-of-contents-)
 
 ---
 
@@ -119,7 +119,7 @@ We’d love for you to contribute! Feel free to:
 
 Just make sure to include plenty of comments and add yourself to the contributor list. Bonus points for humorous commit messages.
 
-[Return to Table of Contents](#table-of-contents-%f0%9f%93%9a)
+[Return to Table of Contents](#table-of-contents-)
 
 ---
 
