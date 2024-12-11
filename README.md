@@ -14,7 +14,7 @@ Welcome to **LODmyImage.js**, the ES6 JavaScript library that benchmarks your co
 4. [Installation](#installation-)
 5. [Usage Example](#usage-example-)
 6. [Contributing](#contributing-)
-7. [Acknowledgments](#-Acknowledgments-)
+7. [Acknowledgments](#Acknowledgments-)
 8. [License](#license-)
 
 ---
