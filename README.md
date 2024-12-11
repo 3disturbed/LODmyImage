@@ -6,13 +6,13 @@ Welcome to **LODmyImage.js**, the ES6 JavaScript library that benchmarks your co
 ---
 
 ## Table of Contents 📚
-1. [Introduction](#introduction-%f0%9f%8e%89)
-2. [Features](#features-%e2%9c%a8)
-3. [How It Works](#how-it-works-%f0%9f%9b%a0%ef%b8%8f)
-4. [Installation](#installation-%f0%9f%92%be)
-5. [Usage Example](#usage-example-%f0%9f%9a%80)
-6. [Contributing](#contributing-%f0%9f%91%a9%e2%80%8d%f0%9f%92%bb%f0%9f%91%a8%e2%80%8d%f0%9f%92%bb)
-7. [License](#license-%f0%9f%93%9c)
+1. [Introduction](#introduction-9)
+2. [Features](#features-)
+3. [How It Works](#how-it-works-)
+4. [Installation](#installation-)
+5. [Usage Example](#usage-example-)
+6. [Contributing](#contributing-)
+7. [License](#license-)
 
 ---
 
