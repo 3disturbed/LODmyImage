@@ -1,5 +1,7 @@
 # LODmyImage.js 🎨
 "Because nobody deserves a high-res image on dial-up."
+[Test the class](https://3disturbed.github.io/LODmyImage/test.html)
+
 
 Welcome to **LODmyImage.js**, the ES6 JavaScript library that benchmarks your connection speed to decide if your device deserves the Mona Lisa or a pixelated potato. With LOD (Level of Detail) logic, it ensures only the right images are loaded—keeping your site speedy and your users happy.
 
