@@ -12,7 +12,7 @@ export default class LODmyImage {
         const endTime = performance.now();
 
         const timeTaken = (endTime - startTime) / 1000; // seconds
-        const fileSizeInBytes = 1048576; // 1MB in bytes
+        const fileSizeInBytes = 77824;
         const speedMbps = (fileSizeInBytes / (timeTaken * 125000)).toFixed(2);
 
         return parseFloat(speedMbps);
