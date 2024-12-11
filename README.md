@@ -133,11 +133,13 @@ Thank you, Ali, for your valuable input and inspiration!
 A discussion with John Rearden of Code Institute then provoked the idea of building it into a simple form that can be easily built into the front end of a website.
 This module was developed under the leadership of Ben Darlington, who guided the conversation and wrote the software, bringing the concept to life.
 Special thanks to Ali and John for their valuable contributions.
-[Return to Table of Contents](#table-of-contents-)
-## License 📜
-This project is licensed under the MIT License. Basically, you can do almost anything with it except blame us if it doesn’t work.
-[Return to Table of Contents](#table-of-contents-)
----
 
+[Return to Table of Contents](#table-of-contents-)
+
+## License 📜
+
+This project is licensed under the MIT License. Basically, you can do almost anything with it except blame us if it doesn’t work.
+---
+[Return to Table of Contents](#table-of-contents-)
 Enjoy the library, and remember: just because your connection is fast doesn’t mean everyone else’s is. Be kind. Load wisely. 🎨
 
