@@ -73,7 +73,7 @@ Finds images with `data-low`, `data-medium`, and `data-high` attributes and load
 ### 1. **Download the Library**:
 Clone the repo or download the file directly:
 ```bash
-git clone https://github.com/yourusername/LODmyImage.js.git
+git clone https://github.com/3disturbed/LODmyImage.js.git
 ```
 
 ### 2. **Include in Your Project**:
