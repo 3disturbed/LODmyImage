@@ -5,6 +5,12 @@
 
 Welcome to **LODmyImage.js**, the ES6 JavaScript library that benchmarks your connection speed to decide if your device deserves the Mona Lisa or a pixelated potato. With LOD (Level of Detail) logic, it ensures only the right images are loaded—keeping your site speedy and your users happy.
 
+
+# Credits
+This module was inspired by a suggestion from Ali Garrido, who proposed creating a simple yet effective solution to dynamically control image sizes sent to the client based on an initial quick speed test. Their idea helped shape the approach used in this module, enabling more efficient and responsive image delivery.
+
+Thank you, Ali, for your valuable input and inspiration!
+
 ---
 
 ## Table of Contents 📚
