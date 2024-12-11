@@ -127,15 +127,16 @@ Just make sure to include plenty of comments and add yourself to the contributor
 ---
 ## Acknowledgments 🙌
 
+This module was inspired by a suggestion from Ali Garrido, who proposed creating a simple yet effective solution to dynamically control image sizes sent to the client based on an initial quick speed test. Their idea helped shape the approach used in this module, enabling more efficient and responsive image delivery.
+Thank you, Ali, for your valuable input and inspiration!
+
+A discussion with John Rearden of Code Institute then provoked the idea of building it into a simple form that can be easily built into the front end of a website.
 This module was developed under the leadership of Ben Darlington, who guided the conversation and wrote the software, bringing the concept to life.
-
-Ali Garrido proposed creating a simple solution to dynamically control image sizes sent to the client based on an initial quick speed test. A discussion with John Rearden of Code Institute sparked the idea of building this functionality into a simple form that can be seamlessly integrated into the front end of a website.
-
 Special thanks to Ali and John for their valuable contributions.
-
+[Return to Table of Contents](#table-of-contents-)
 ## License 📜
 This project is licensed under the MIT License. Basically, you can do almost anything with it except blame us if it doesn’t work.
-
+[Return to Table of Contents](#table-of-contents-)
 ---
 
 Enjoy the library, and remember: just because your connection is fast doesn’t mean everyone else’s is. Be kind. Load wisely. 🎨
