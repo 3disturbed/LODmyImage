@@ -29,7 +29,7 @@ export default class LODmyImage {
 
         images.forEach((img) => {
             const src = img.dataset[lod];
-            if (src) img.src = src;
+            img.src = src;
         });
     }
 
