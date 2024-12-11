@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Connection Benchmark Test</title>
+</head>
+<body>
+    <h1>Connection Speed Benchmark</h1>
+    <p>Images will load based on your connection speed.</p>
+
+    <!-- Images with LOD data attributes -->
+    <img data-low="images/low-res.jpg" 
+         data-medium="images/medium-res.jpg" 
+         data-high="images/high-res.jpg" 
+         alt="Dynamic Image LOD" id="dynamic-image">
+
+    <!-- Include your JavaScript library -->
+    <script type="module">
+        import ConnectionBenchmark from './LODmyImage.js';
+
+        // Initialize the library
+        const benchmark = new ConnectionBenchmark({
+            benchmarkFile: "benchmark.jpg", // Path to the benchmark file
+            thresholds: { low: 5, medium: 20 }, // Mbps thresholds
+            onComplete: (speed, lod) => {
+                console.log(`Speed: ${speed} Mbps, LOD: ${lod}`);
+            }
+        });
+
+        // Start the benchmark and load images
+        benchmark.init();
+    </script>
+</body>
+</html>
