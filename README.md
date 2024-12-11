@@ -1,5 +1,6 @@
 # LODmyImage.js 🎨
 "Because nobody deserves a high-res image on dial-up."
+
 [Test the class](https://3disturbed.github.io/LODmyImage/test.html)
 
 
@@ -139,7 +140,11 @@ Special thanks to Ali and John for their valuable contributions.
 ## License 📜
 
 This project is licensed under the MIT License. Basically, you can do almost anything with it except blame us if it doesn’t work.
+
 ---
-[Return to Table of Contents](#table-of-contents-)
+
+
 Enjoy the library, and remember: just because your connection is fast doesn’t mean everyone else’s is. Be kind. Load wisely. 🎨
+
+[Return to Table of Contents](#table-of-contents-)
 
