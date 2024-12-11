@@ -14,6 +14,7 @@
          data-medium="images/medium-res.jpg" 
          data-high="images/high-res.jpg" 
          alt="Dynamic Image LOD" id="dynamic-image">
+    <div id="speed-result">Speed Test Pending...</div>
 
     <!-- Include your JavaScript library -->
     <script type="module">
@@ -25,6 +26,11 @@
             thresholds: { low: 5, medium: 20 }, // Mbps thresholds
             onComplete: (speed, lod) => {
                 console.log(`Speed: ${speed} Mbps, LOD: ${lod}`);
+                const speedResultDiv = document.getElementById("speed-result");
+        
+                // Update the content of the div
+                speedResultDiv.innerText = `Speed: ${speed} Mbps, LOD: ${lod}`;
+                
             }
         });
 
