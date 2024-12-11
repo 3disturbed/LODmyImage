@@ -11,6 +11,8 @@ This module was inspired by a suggestion from Ali Garrido, who proposed creating
 
 Thank you, Ali, for your valuable input and inspiration!
 
+A discussion with John Rearden of Code Institute then provoked the idea of building it into a simple form that can be easily built into the front end of a website.
+
 ---
 
 ## Table of Contents 📚
