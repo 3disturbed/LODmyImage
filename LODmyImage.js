@@ -25,7 +25,8 @@ export default class LODmyImage {
     }
 
     loadImages(lod) {
-        const images = document.querySelectorAll("[data-lod]");
+    const images = document.querySelectorAll("[data-low], [data-medium], [data-high]");
+
         images.forEach((img) => {
             const src = img.dataset[lod];
             if (src) img.src = src;
