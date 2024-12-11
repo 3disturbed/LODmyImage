@@ -5,14 +5,6 @@
 
 Welcome to **LODmyImage.js**, the ES6 JavaScript library that benchmarks your connection speed to decide if your device deserves the Mona Lisa or a pixelated potato. With LOD (Level of Detail) logic, it ensures only the right images are loaded—keeping your site speedy and your users happy.
 
-
-# Credits
-This module was inspired by a suggestion from Ali Garrido, who proposed creating a simple yet effective solution to dynamically control image sizes sent to the client based on an initial quick speed test. Their idea helped shape the approach used in this module, enabling more efficient and responsive image delivery.
-
-Thank you, Ali, for your valuable input and inspiration!
-
-A discussion with John Rearden of Code Institute then provoked the idea of building it into a simple form that can be easily built into the front end of a website.
-
 ---
 
 ## Table of Contents 📚
@@ -22,7 +14,8 @@ A discussion with John Rearden of Code Institute then provoked the idea of build
 4. [Installation](#installation-)
 5. [Usage Example](#usage-example-)
 6. [Contributing](#contributing-)
-7. [License](#license-)
+7. [Acknowledgments](#-Acknowledgments)
+8. [License](#license-)
 
 ---
 
@@ -132,6 +125,13 @@ Just make sure to include plenty of comments and add yourself to the contributor
 [Return to Table of Contents](#table-of-contents-)
 
 ---
+## Acknowledgments 🙌
+
+This module was developed under the leadership of Ben Darlington, who guided the conversation and wrote the software, bringing the concept to life.
+
+Ali Garrido proposed creating a simple solution to dynamically control image sizes sent to the client based on an initial quick speed test. A discussion with John Rearden of Code Institute sparked the idea of building this functionality into a simple form that can be seamlessly integrated into the front end of a website.
+
+Special thanks to Ali and John for their valuable contributions.
 
 ## License 📜
 This project is licensed under the MIT License. Basically, you can do almost anything with it except blame us if it doesn’t work.
