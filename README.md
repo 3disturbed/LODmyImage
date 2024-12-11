@@ -6,13 +6,13 @@ Welcome to **LODmyImage.js**, the ES6 JavaScript library that benchmarks your co
 ---
 
 ## Table of Contents 📚
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [How It Works](#how-it-works)
-4. [Installation](#installation)
-5. [Usage Example](#usage-example)
-6. [Contributing](#contributing)
-7. [License](#license)
+1. [Introduction](#introduction-%f0%9f%8e%89)
+2. [Features](#features-%e2%9c%a8)
+3. [How It Works](#how-it-works-%f0%9f%9b%a0%ef%b8%8f)
+4. [Installation](#installation-%f0%9f%92%be)
+5. [Usage Example](#usage-example-%f0%9f%9a%80)
+6. [Contributing](#contributing-%f0%9f%91%a9%e2%80%8d%f0%9f%92%bb%f0%9f%91%a8%e2%80%8d%f0%9f%92%bb)
+7. [License](#license-%f0%9f%93%9c)
 
 ---
 
@@ -21,7 +21,7 @@ Are you tired of forcing your users to download billboard-sized JPEGs on their c
 
 Because, let’s face it, nobody wants a full-res cat photo over a 2G connection. Unless, of course, they hate their data plan.
 
-[Return to Table of Contents](#table-of-contents)
+[Return to Table of Contents](#table-of-contents-%f0%9f%93%9a)
 
 ---
 
@@ -31,7 +31,7 @@ Because, let’s face it, nobody wants a full-res cat photo over a 2G connection
 - **Fast Benchmarking**: Utilizes a small file (`benchmark.jpg`) to gauge speed without hogging resources.
 - **Simple Integration**: A few lines of code, and you're good to go.
 
-[Return to Table of Contents](#table-of-contents)
+[Return to Table of Contents](#table-of-contents-%f0%9f%93%9a)
 
 ---
 
@@ -55,7 +55,7 @@ Depending on your speed, picks one of the three LODs:
 ### 4. **Load Images**:
 Finds images with `data-low`, `data-medium`, and `data-high` attributes and loads the correct one.
 
-[Return to Table of Contents](#table-of-contents)
+[Return to Table of Contents](#table-of-contents-%f0%9f%93%9a)
 
 ---
 
@@ -72,7 +72,7 @@ Import it as an ES6 module:
 import LODmyImage from './LODmyImage.js';
 ```
 
-[Return to Table of Contents](#table-of-contents)
+[Return to Table of Contents](#table-of-contents-%f0%9f%93%9a)
 
 ---
 
@@ -107,7 +107,7 @@ lod.init();
 ### Result
 The appropriate image will be loaded dynamically based on the user's connection speed. Voilà! No more buffering embarrassment.
 
-[Return to Table of Contents](#table-of-contents)
+[Return to Table of Contents](#table-of-contents-%f0%9f%93%9a)
 
 ---
 
@@ -119,7 +119,7 @@ We’d love for you to contribute! Feel free to:
 
 Just make sure to include plenty of comments and add yourself to the contributor list. Bonus points for humorous commit messages.
 
-[Return to Table of Contents](#table-of-contents)
+[Return to Table of Contents](#table-of-contents-%f0%9f%93%9a)
 
 ---
 
